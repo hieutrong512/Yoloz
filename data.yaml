@@ -1,0 +1,6 @@
+train: dataset/train/images
+val: dataset/test/images
+
+nc: 8
+names: ['airplane', 'bridge', 'person', 'ship', 'storage-tank', 'swimming-pool', 'vehicle', 'wind-mill']
+
